@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  header {
+    padding: 20px 0px;
+    background-color: darkslategray;
+  }
+  header h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+    color: darkslategrey;
+    margin: 0;
+    background-color: lightblue;
+    display: inline;
+    padding: 8px 30px;
+  }
+  
+  header a {
+    text-decoration: none;
+    color: lightblue;
+  }
+  header nav {
+    float: right;
+    margin: 7px 0;
+  }
+  header nav ul li {
+    display: inline;
+  }
+  header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 28px;
+  }
+.background-image {
+    padding-top: 90px;
+    font-size: 32px;
+    float: right;
+    padding: block 40px; 
+
+}
+  

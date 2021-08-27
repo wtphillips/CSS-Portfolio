@@ -35,10 +35,18 @@
     font-size: 28px;
   }
 .background-image {
-    padding-top: 90px;
+    
     font-size: 32px;
     float: right;
-    padding: block 40px; 
+    padding: 10px 30px; 
+    background-color: lightblue;
+    margin: 100px 100px;
 
+}
+.hero{
+    background-image: url(./background.jpg);
+    width: auto;
+    height: 200px;
+    
 }
   

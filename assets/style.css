@@ -40,13 +40,26 @@
     float: right;
     padding: 10px 30px; 
     background-color: lightblue;
-    margin: 100px 100px;
+    margin: 100px 100px 0 0;
 
 }
 .hero{
     background-image: url(./background.jpg);
     width: auto;
-    height: 200px;
-    
+    height: 200px;    
 }
-  
+.section-title {
+    font-size: 60px;
+    color: lightblue;
+    display: inline-block;
+}
+.filler {
+    float: right;
+    display: inline;
+    text-align: left;
+    margin: 50px 70px 0px 0px;
+    width: 700px;
+}
+#about-me {
+    margin: 100px 0 40px 100px;
+}
